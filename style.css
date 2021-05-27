@@ -168,3 +168,11 @@ margin-left: 10px;
 .color-titlebtn{
     color: yellow;
 }
+
+.preguntas{
+    margin: 0 100px;
+}
+
+.true{
+    background-color: #98FF98;
+}
